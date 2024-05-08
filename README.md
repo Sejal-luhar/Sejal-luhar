@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sejal-luhar
+- 👀 I’m interested in coding and sometimes music.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on github and for ant internship.
+- 📫 How to reach me @sejalll_so.
+- 😄 Pronouns: she.
